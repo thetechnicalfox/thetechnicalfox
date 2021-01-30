@@ -14,5 +14,5 @@ I'm a computer science student with a passion for technology and cybersecurity. 
 ### :electric_plug: Homelab
 ![](https://img.shields.io/badge/Firewall-pfSense-informational?style=flat&logo=pfSense&logoColor=white&color=blue) ![](https://img.shields.io/badge/OS-CentOS-informational?style=flat&logo=centos&logoColor=white&color=blue) ![](https://img.shields.io/badge/Containers-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue) ![](https://img.shields.io/badge/DNS-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=blue)
 
-## :iphone: Social
+### :iphone: Social
 ![](https://img.shields.io/badge/Chat-Discord-informational?style=flat&logo=discord&logoColor=white&color=blue) ![](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=blue) ![](https://img.shields.io/badge/Social-Twitter-informational?style=flat&logo=twitter&logoColor=white&color=blue) 
