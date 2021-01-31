@@ -6,7 +6,7 @@ I'm a computer science student with a passion for technology and cybersecurity. 
 - 🌱 I’m currently learning Java, C++, and SQL
 - 💬 Ask me about coffee, homelabs, and digital privacy
 - 📫 How to reach me: TheTechnicalFox#0056 (Discord)
-- ⚡ Fun fact: I can probably beat you on typeracer
+- ⚡ Fun fact: I play a lot of [typeracer](https://data.typeracer.com/pit/profile?user=thetechnicalfox)
 
 ### :wrench: Tools and Technologies
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue) ![](https://img.shields.io/badge/IDE-IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue) ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=blue) ![](https://img.shields.io/badge/Buildtools-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=blue) ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox-browser&logoColor=white&color=blue) ![](https://img.shields.io/badge/Search-DuckDuckGo-informational?style=flat&logo=duckduckgo&logoColor=white&color=blue) 
