@@ -5,7 +5,7 @@ I'm a computer science student with a passion for technology and cybersecurity. 
 - 🔭 I’m currently working on [BaristaBot](https://github.com/evynprice/baristabot), a simple Discord bot using [JDA](https://github.com/DV8FromTheWorld/JDA)
 - 🌱 I’m currently learning Java, C++, and SQL
 - 💬 Ask me about coffee, homelabs, and digital privacy
-- 📫 How to reach me: [Twitter](https://twitter.com/evynprice), [Telegram](https://t.me/evynp), TheTechnicalFox#0056 (Discord)
+- 📫 How to reach me: [Twitter](https://twitter.com/evynprice), [Telegram](https://t.me/evynp), evynprice#4277 (Discord)
 - ⚡ Fun fact: I play a lot of [typeracer](https://data.typeracer.com/pit/profile?user=thetechnicalfox)
 
 ### :wrench: Tools and Technologies
