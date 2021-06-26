@@ -2,7 +2,7 @@
   
 I'm currently a freshman at Tennessee Tech University majoring in Computer Science with a concentration in Information Assurance and Cyber-Security. I have a passion for learning and all things technology, and have worked on many hobbies and projects in the fields of software development, system administration, network technology, and hardware modding.
 
-Lately I have been especially interested in the field of software development and have been posting many of my projects publicily here on my GitHub page. Feel free to check out my work below!
+Lately I have been especially interested in the field of software development and have been posting many of my projects publicly here on my GitHub page. Feel free to check out my work below!
 
 - 🔭 I’m currently working on [BaristaBot](https://github.com/evynprice/baristabot), a simple Discord bot using [JDA](https://github.com/DV8FromTheWorld/JDA)
 - 🌱 I’m currently learning Java, C++, and Node.js
